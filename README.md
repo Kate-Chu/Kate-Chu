@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Kate, a novice web-develop learner.👩🏻‍💻 <br>
-Love coffee, book, mindfulness, and many other interesting things! 🌸
+Love coffee, book, mindfulness, and all the other interesting things! 🌸
 
 I'm doing my 1-year side project: Daily Coding Challenge. 💪🏼
 You can see it here:
