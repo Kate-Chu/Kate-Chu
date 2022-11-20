@@ -2,11 +2,6 @@
 
 I'm Kate, a novice web-develop learner.👩🏻‍💻 <br>
 Love coffee, book, mindfulness, and all the other interesting things! 🌸
-
-I'm doing my 1-year side project: Daily Coding Challenge. 💪🏼
-You can see it here:
-<li> Instagram: <a href="https://www.instagram.com/amber_fragments/">amber_fragments </a></li>
-<li> Medium (in Chinese): <a href="https://medium.com/@amber.fragments/2022-daily-coding-challenge-35f753e9ea2c">2022 Daily Coding Challange </a></li>
 <br>
 Glad to see you! ☺️
 
