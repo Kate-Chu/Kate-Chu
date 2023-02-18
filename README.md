@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kate, a novice web-develop learner.👩🏻‍💻 <br>
+I'm Kate, a software engineer 👩🏻‍💻 <br>
 Love coffee, book, mindfulness, and all the other interesting things! 🌸
 <br>
 Glad to see you! ☺️
